@@ -1,0 +1,85 @@
+5,6,7,8
+10,11,12,13
+24,25,26,27
+47,48,49,50
+
+Map size = 5
+Number of Desired points = 25
+steps = 28
+Estimated Cost = 106.03015075376885
+
+Map size = 6
+Number of Desired points = 36
+steps = 40
+Estimated Cost = 108.79396984924622
+
+Map size = 7
+Number of Desired points = 17
+steps = 38
+Estimated Cost = 108.04020100502512
+
+Map size = 8
+Number of Desired points = 32
+steps = 54
+Estimated Cost = 111.80904522613065
+
+Map size = 10
+Number of Desired points = 52
+steps = 78
+Estimated Cost = 117.33668341708542
+
+Map size = 11
+Number of Desired points = 25
+steps = 70
+Estimated Cost = 115.07537688442211
+
+Map size = 12
+Number of Desired points = 48
+steps = 84
+Estimated Cost = 118.34170854271356
+
+Map size = 13
+Number of Desired points = 41
+steps = 92
+Estimated Cost = 120.10050251256281
+
+Map size = 24
+Number of Desired points = 96
+steps = 182
+Estimated Cost = 139.9497487437186
+
+Map size = 25
+Number of Desired points = 65
+steps = 176
+Estimated Cost = 138.19095477386935
+
+Map size = 26
+Number of Desired points = 116
+steps = 206
+Estimated Cost = 145.47738693467338
+
+Map size = 27
+Number of Desired points = 57
+steps = 182
+Estimated Cost = 139.1959798994975
+
+Map size = 47
+Number of Desired points = 97
+steps = 322
+Estimated Cost = 169.3467336683417
+
+Map size = 48
+Number of Desired points = 192
+steps = 374
+Estimated Cost = 182.1608040201005
+
+Map size = 49
+Number of Desired points = 113
+steps = 344
+Estimated Cost = 174.3718592964824
+
+Map size = 50
+Number of Desired points = 212
+steps = 398
+Estimated Cost = 187.68844221105527
+

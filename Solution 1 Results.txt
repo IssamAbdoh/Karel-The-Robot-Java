@@ -1,0 +1,78 @@
+5,6,7,8
+10,11,12,13
+24,25,26,27
+47,48,49,50
+
+findDesiredPoints();
+calculateCosts();
+calculateCostFrom(int row,int column)
+goToPoint(int x,int y)
+myMove()
+A* is a graph traversal and path search algorithm, which is often used in many fields of computer science due to its completeness, optimality, and optimal efficiency. One major practical drawback is its O(b^d) space complexity, as it stores all generated nodes in memory.
+getChildren()
+
+Map size = 5
+Number of Desired points = 25
+steps = 32
+
+Map size = 6
+Number of Desired points = 36
+steps = 50
+
+Map size = 7
+Number of Desired points = 17
+steps = 38
+
+Map size = 8
+Number of Desired points = 32
+steps = 54
+
+Map size = 10
+Number of Desired points = 52
+steps = 78
+
+Map size = 11
+Number of Desired points = 25
+steps = 70
+
+Map size = 12
+Number of Desired points = 48
+steps = 98
+
+Map size = 13
+Number of Desired points = 41
+steps = 108
+
+Map size = 24
+Number of Desired points = 96
+steps = 182
+
+Map size = 25
+Number of Desired points = 65
+steps = 204
+
+Map size = 26
+Number of Desired points = 116
+steps = 206
+
+Map size = 27
+Number of Desired points = 57
+steps = 182
+
+Map size = 47
+Number of Desired points = 97
+steps = 322
+
+Map size = 48
+Number of Desired points = 192
+steps = 374
+
+Map size = 49
+Number of Desired points = 113
+steps = 396
+
+Map size = 50
+Number of Desired points = 212
+steps = 398
+
+Greedy Solution VS A* Solution
